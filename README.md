@@ -23,5 +23,4 @@ This project focuses on enhancing data analysis efficiency, tracking insights ac
 
 ### Prerequisites
 - Install Power BI Desktop (download from [Microsoft](https://powerbi.microsoft.com/)).  
-- Clone this repository:  
- 
+- Clone this repository
