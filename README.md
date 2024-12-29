@@ -14,12 +14,14 @@ This project focuses on enhancing data analysis efficiency, tracking insights ac
 - **Dynamic Filters**: Explore the dataset by applying filters for year, genre, and more.  
 - **Comprehensive Dataset**: Analyze a massive dataset of over 647K movies from various sources.  
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
+
+- **Excel**: Dataset, Importing.
+- **Power Query**: Data Transformations.  
 - **Power BI**: For building the dashboards.  
 - **DAX**: Used for advanced data analysis.  
-- **Data Cleaning**: PowerQuery.  
 
-## 💡 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Install Power BI Desktop (download from [Microsoft](https://powerbi.microsoft.com/)).  
