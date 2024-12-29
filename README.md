@@ -24,5 +24,4 @@ This project focuses on enhancing data analysis efficiency, tracking insights ac
 ### Prerequisites
 - Install Power BI Desktop (download from [Microsoft](https://powerbi.microsoft.com/)).  
 - Clone this repository:  
-  ```bash
-  git clone https://github.com/your-username/movie-analytics-dashboard.git
+ 
